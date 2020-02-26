@@ -1,0 +1,113 @@
+/* Fonts */
+h1 {
+  font-family: Montserrat-Bold, sans-serif;
+  font-weight: bold;
+}
+
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+.navbar {
+  background-color: #71c9ce;
+  padding: 1% 15%;
+}
+
+.navbar-nav{
+  text-align: center;
+}
+
+.logo {
+  font-family: Ubuntu, sans-serif;
+  font-weight: bold;
+}
+
+/* Title */
+#title {
+  padding: 5% 15%;
+  background-color: #71c9ce;
+  text-align: center;
+}
+
+.title-button {
+  margin-top: 7%;
+}
+
+.quote {
+  margin-top: 4%;
+  font-size: 1.4rem;
+}
+
+.title-image {
+  width: 70%;
+  border-radius: 50%;
+}
+
+/* Hello Intro */
+#hello {
+  background-color: #a6e3e9;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+/* Strenghts */
+#strenghts {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #e3fdfd;
+}
+
+/* Call to Action */
+#cta {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #a6e3e9;
+}
+
+.cta-button {
+  margin-top: 3%;
+  width: 60%;
+}
+
+/* Contact */
+#contact {
+  text-align: center;
+  padding: 5% 15%;
+  background-color: #cbf1f5;
+}
+
+.contact-button {
+  margin-top: 3%;
+  width: 60%;
+}
+
+.fab {
+  font-size: 3.5rem;
+  padding: 0% 3%;
+  padding-top: 5%;
+}
+
+/* Footer */
+#footer {
+  text-align: center;
+  background-color: #cbf1f5;
+  padding-bottom: 1%;
+}
+
+/* About Me */
+#about-me {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #e3f6f5;
+}
+
+.p1{
+  margin-top: 4%
+}
+
+.about-me-image {
+  text-align: left;
+  width: 69%;
+  border-radius: 50%;
+  padding-bottom: 2%
+}
