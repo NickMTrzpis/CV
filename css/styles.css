@@ -1,7 +1,7 @@
 /* Fonts */
 h1 {
-  font-family: Montserrat-Bold, sans-serif;
-  font-weight: bold;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
 }
 
 body {
@@ -17,9 +17,16 @@ body {
   text-align: center;
 }
 
+.nav-link{
+  color: #404242 !important;
+  font-weight: 600;
+}
+
 .logo {
   font-family: Ubuntu, sans-serif;
   font-weight: bold;
+  font-size: 1.5rem;
+  color: #404242 !important;
 }
 
 /* Title */
@@ -110,4 +117,20 @@ body {
   width: 69%;
   border-radius: 50%;
   padding-bottom: 2%
+}
+
+@media (max-width: 414px){
+  h1{
+  font-size: 1.5rem;
+}
+  .quote{
+    font-size: 1rem;
+  }
+  .title-image{
+    padding: 10% 0 7%;
+  }
+  .nav-link{
+    color: #404242 !important;
+    font-weight: 500;
+  }
 }
